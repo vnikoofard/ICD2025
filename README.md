@@ -1,1 +1,6 @@
-# Introdu-o-a-Ci-ncia-de-Dados-2025
+# Introdução a Ciência de Dados
+
+___
+
+<a href='https://sites.google.com/fat.uerj.br/livia'> <img src='./figures/capa2.png' /></a>
+___
