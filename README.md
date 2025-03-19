@@ -1,4 +1,4 @@
-# Introdução a Ciência de Dados - 2025
+# Introdução a Ciência de Dados Usando Python- 2025
 
 ___
 
