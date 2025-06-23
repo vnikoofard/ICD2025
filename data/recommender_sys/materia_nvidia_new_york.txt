@@ -1,0 +1,45 @@
+Nvidia Becomes Most Valuable Public Company, Topping Microsoft
+The chip maker’s stock price has jumped over the last year thanks to its stranglehold on the market for the chips needed to build A.I. systems.
+
+Move over, Microsoft and Apple. The stock market has a new king.
+
+On Tuesday, Nvidia leapfrogged two of tech’s most storied names to become the world’s most valuable public company, according to data from S&P Global. Its ascent has been powered by the boom in generative artificial intelligence and surging demand for the company’s chips — known as graphics processing units, or GPUs — which have made it possible to create A.I. systems.
+
+Nvidia’s rise is among the fastest in market history. Just two years ago, the company’s market valuation was a little over $400 billion. Now, in the span of a year, it has gone from $1 trillion to more than $3 trillion.
+
+On Tuesday, Nvidia’s share price rose 3.6 percent, lifting its value to $3.34 trillion. Microsoft and Apple both fell, ending the day trailing the Silicon Valley chip maker.
+
+Nvidia’s ascent is a testament to how much artificial intelligence has upended the world’s biggest companies. The rise of the powerful technology first elevated Microsoft to the biggest market capitalization in January, dethroning Apple, before pushing Nvidia to take the crown. Last week, Apple said it, too, was getting into the A.I. game and will add the technology to its products, including the iPhone, this fall.
+
+
+Years before other big chip companies, Nvidia’s chief executive, Jensen Huang, bet that GPUs would be essential to building artificial intelligence, and he tailored his company to accommodate what he believed would be tech’s next big boom.
+
+His big bet is paying off. By some measurements, Nvidia controls more than 80 percent of the market for the chips used in A.I. systems. Nvidia’s biggest customers regularly jockey for orders for chips to run computers in their giant data centers, and are building their own A.I. chips so they are not so dependent on one supplier.
+
+“No one else fully saw or appreciated this,” said Daniel Newman, chief executive of the Futurum Group, a tech research firm. “They saw the trend, built for the trend and enabled the market. They can effectively charge whatever they want.”
+
+Nvidia’s ascent has made Mr. Huang, 61, a celebrity in the tech world. After a computer conference in Taiwan early this month, he was surrounded by attendees who wanted his autograph, including a woman who asked him to sign her chest.
+
+The company’s rise is reminiscent of dot-com era titans like Cisco and Juniper Networks, which built the equipment that ran communications networks for the internet. Cisco’s shares increased more than a thousandfold between its initial public offering in 1990 and 2000, when it briefly became the world’s most valuable company.
+
+The speed at which Nvidia’s value has grown has been startling. Apple crossed $1 trillion in August 2018 and became the first $3 trillion company last June. Microsoft also took nearly five years to climb from $1 trillion to $3 trillion.
+
+Nvidia’s investors are betting more on its potential than on its current profits. Microsoft and Apple each generated more than $21 billion in profit during the three months that ended in March. Nvidia generated $14.88 billion in profit in its most recent quarter, which ended in April, but that was up more than 600 percent from a year earlier.
+
+“The numbers have gotten so big so quickly that people worry: Is this sustainable?” said Stacy Rasgon, an analyst with Bernstein Research. “If the return on A.I. turns out to not be there, then the whole thing comes crumbling down.”
+
+Just 12 companies have led the S&P 500 by market valuation since the index was created in 1926: AT&T, Apple, Cisco, DuPont, Exxon Mobil, General Electric, General Motors, IBM, Microsoft, Philip Morris, Walmart and now Nvidia, according to S&P Dow Jones Indices.
+
+Nvidia’s rise has been fueled by its ability to consistently exceed Wall Street expectations. Sales in its last quarter tripled from a year earlier to $26 billion. It also projected that it would double sales in the current quarter.
+
+Nvidia sells everything from chips, and the software needed to build A.I. systems with those chips, to supercomputers. The machines, which have 35,000 parts and are packed with the company’s GPUs, sell for $250,000 or more. A new supercomputer that Nvidia is bringing to the market could sell for more than $1 million, Mr. Rasgon said.
+
+“Even though the cost of the system is going up, the performance per dollar is getting better with every generation, and that’s how they’re able to keep customers buying,” Mr. Rasgon said.
+
+Wall Street has been watching for signs of a slowdown. Microsoft, Meta, Google and Amazon have all developed their own chips that can be used for A.I., and traditional chip rivals such as Advanced Micro Devices and Intel have tried to cut into Nvidia’s business with their own A.I. processors.
+
+But Mr. Huang believes that it will take time for anyone to catch up to Nvidia. The company has a decade head start and has cultivated a large community of A.I. programmers who prefer its technology.
+
+“We are fundamentally changing how computing works and what computers can do,” Mr. Huang said in a conference call with analysts in May. “The next industrial revolution has begun.”
+
+A correction was made on June 18, 2024: An earlier version of this article misstated Nvidia’s market value two years ago. It was a little over $400 billion, not over $400 million.
